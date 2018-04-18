@@ -1,4 +1,4 @@
---------------Brief description-------------------------------------------
+Brief description
 --
 This demo contains the implementation of the experiments in: 
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng;
