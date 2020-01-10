@@ -2,17 +2,18 @@ Brief description
 --
 This demo contains the implementation of the experiments in: 
 Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng;
-''A novel nonconvex approach to recover the low-tuba-rank tensor data:
-when t-SVD meets PSSV'' submitted to Journal of Compuational and applied 
-Mathematics (JCAM)\
+''Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm'' accepted by Journal of Compuational and applied Mathematics (JCAM)\
 The preprint is available at https://arxiv.org/abs/1712.05870 \
 if you use this code, please cite
 
-         @article{jiang2017novel,
-                      title={A novel nonconvex approach to recover the low-tubal-rank tensor data: when t-SVD meets PSSV},
-                      author={Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian},
-                      journal={arXiv preprint arXiv:1712.05870},
-                      year={2017}}
+         @article{jiang2019multi,
+                  title = {Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm},
+                  author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian},
+                  journal = {Journal of Computational and Applied Mathematics},
+                  year = {2019},
+                  publisher = {Elsevier},
+                  doi = {10.1016/j.cam.2019.112680}
+                  }
 
             
 Contact: taixiangjiang@gmail.com\
